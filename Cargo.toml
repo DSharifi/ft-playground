@@ -2,6 +2,7 @@
 name = "fungible-token"
 version = "1.0.0"
 edition = "2018"
+repository = "https://github.com/dsharifi/ft-playground"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
